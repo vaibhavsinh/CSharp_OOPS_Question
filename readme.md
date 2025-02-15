@@ -39,13 +39,15 @@
 34. What is the Difference Between is and as Operators?
 35. What is the Difference Between == and .Equals()?
 36. What is Boxing and Unboxing?
-37. What is a Partial Class in C#?
-38. What is var, dynamic, and object?
-39. What is base Keyword in C#?
-40. What is this Keyword in C#?
-41. What is new Keyword in Method Hiding?
-42. What is a Singleton Class in C#?
-43. What is Dependency Injection in .NET Core? Design pattern to inject dependencies into a class.
-44. What is IDisposable Interface in C#?
+==  Converting a value type to object type (value moved from stack to heap)
+    Extracting a value type from an object type (value retrieved from heap to stack).
+38. What is a Partial Class in C#?
+39. What is var, dynamic, and object?
+40. What is base Keyword in C#?
+41. What is this Keyword in C#?
+42. What is new Keyword in Method Hiding?
+43. What is a Singleton Class in C#?
+44. What is Dependency Injection in .NET Core? Design pattern to inject dependencies into a class.
+45. What is IDisposable Interface in C#?
 
  
