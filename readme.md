@@ -49,5 +49,6 @@
 43. What is a Singleton Class in C#?
 44. What is Dependency Injection in .NET Core? Design pattern to inject dependencies into a class.
 45. What is IDisposable Interface in C#?
+46. Interface can be Private ? No at the top level not but in the class it can be declared as private.
 
  
