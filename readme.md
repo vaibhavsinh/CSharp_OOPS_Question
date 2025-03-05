@@ -50,5 +50,10 @@
 44. What is Dependency Injection in .NET Core? Design pattern to inject dependencies into a class.
 45. What is IDisposable Interface in C#?
 46. Interface can be Private ? No at the top level not but in the class it can be declared as private.
+47. What are Delegates ? type-safe function pointer that holds a reference to a method with a specific signature used in event handling, LINQ expressions.
+48. What are some best practices for naming conventions in C#? 
+=== PascalCase: Used for class names and method names (e.g., CustomerOrder, GetUserDetails).
+    camelCase: Used for local variables and method arguments (e.g., orderId, userName).
+    Underscore _ prefix: Used for private fields (e.g., _databaseConnection).
 
  
