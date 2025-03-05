@@ -55,5 +55,8 @@
 === PascalCase: Used for class names and method names (e.g., CustomerOrder, GetUserDetails).
     camelCase: Used for local variables and method arguments (e.g., orderId, userName).
     Underscore _ prefix: Used for private fields (e.g., _databaseConnection).
+49. CQRS (Command Query Responsibility Segregation) in C# .NET
+50. Mediator Pattern in C# .NET
+
 
  
